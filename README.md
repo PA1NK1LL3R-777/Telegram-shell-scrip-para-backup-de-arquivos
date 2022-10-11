@@ -1,7 +1,7 @@
 # Telegram-shell-scrip-para-backup-de-arquivos
 
 ## Pra que serve o script?
-Fazer backup de arquivos na sua vps ou pc local, em espefico uma distribuição linux.  
+Fazer backup de arquivos na sua vps ou pc local, em espefico uma distribuição linux e enviar para um grupo ou no seu privado com um bot, assim ficando salvo na nuvem do telegram.  
   
 ## Como usar?
   
