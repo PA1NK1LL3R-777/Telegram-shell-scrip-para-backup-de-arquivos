@@ -32,6 +32,7 @@ nano /bin/telegram
 ```
 
 Altere o TOKEN e o formato da compactação (zip ou tar)
+
 Altere o token:
 
 ```bash
@@ -41,6 +42,10 @@ Escolha o metodo de compactação tar/zip:
 
 ```bash
 COMPAC='tar'
+```
+ou
+
+```bash
 COMPAC='zip'
 ```
 
