@@ -76,11 +76,9 @@ Como deve ficar:
 /bin/telegram -f "1496646298" "/root/bots" "bot1" "Backup feito as: $(date +%F\ %T)" >> /root/botbackup1.log
 ```
 
-```
-
 Feche e salve o arquivo.
 
-De permissião nesse arquivo para execução
+Agora dê permissião nesse arquivo para ser executável
 
 ```bash
 chmod +x telegram_backup-bot.sh
