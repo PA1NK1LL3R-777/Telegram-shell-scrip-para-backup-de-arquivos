@@ -75,6 +75,13 @@ Como deve ficar:
 ```bash
 /bin/telegram -f "1496646298" "/root/bots" "bot1" "Backup feito as: $(date +%F\ %T)" >> /root/botbackup1.log
 ```
+Abra o arquivo usando vi/vim/nano
+
+Exemplo: 
+```bash
+vi telegram_backup-bot.sh
+```
+Caso queira usar o nano ou vim, apenas troque.
 
 Feche e salve o arquivo.
 
